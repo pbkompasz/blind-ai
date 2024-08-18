@@ -1,0 +1,7 @@
+name = "disease-symptomps"
+version = "0.1.0"
+authors = [""]
+
+[[programs]]
+path = "src/heart-disease.py"
+prime_size = 128
