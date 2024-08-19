@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "blind-ai"
+version = "0.1.0"
+description = ""
+authors = ["Peter Kompasz <kompaszbence@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+nada-ai = "^0.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
